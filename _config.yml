@@ -1,1 +1,11 @@
+title: Haven
+description: Backend developer writing about Python, scientific computing, and data pipelines
 remote_theme: "jekyll/minima@v2.5.1"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  social_links:
+    github: your-github-username
